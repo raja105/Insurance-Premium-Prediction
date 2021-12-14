@@ -1,6 +1,6 @@
 # Insurance-Premium-Prediction
 
-Deplyed End to End Project Link:
+Deployed End to End Project Link:
 https://insurancepredictionraja.herokuapp.com/
 
 Project Demo Video:
